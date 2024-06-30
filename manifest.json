@@ -1,0 +1,15 @@
+{
+    "name": "Meu Progressive Web App",
+    "short_name": "MeuPWA",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "description": "Um exemplo de Progressive Web App.",
+    "icons": [
+        {
+            "src": "icon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ]
+}
